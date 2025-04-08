@@ -1,33 +1,32 @@
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/DIO-Microsoft-Certification-Challenge-3-DP-100/refs/heads/main/assets/banner-bootcamp.jpg" width="1080"/> ...
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/DIO-Microsoft-Certification-Challenge-3-DP-100/c29b2cc0a520d062c346c4c75a39ffe4c6d1cdc5/assets/Microsoft_Azure.svg" width="200"/>
 
-# Autorização de Uso
+### Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
 <a href="https://github.com//araujoeverton/XP_Bootcamp_Engenharia_de_Dados//fork">
     <img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-red.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
-## Detalhes da formação
+## Detalhes do Bootcamp
 
-A XP Investimentos investe em formação e conhecimento! Um dos bancos líderes de mercado e em inovação preparou o Bootcamp Engenheiro de Dados!
+Fazer análise de dados focada em Machine Leaning dentro do Azure nunca mais será um problema para você com o conteúdo necessário para obter a certificação DP-100 da Microsoft!
 
-O objetivo é simples: Formar profissionais capazes de trabalhar com Engenharia de Dados na construção de pipelines de dados e em outras soluções de dados que requeiram etapas de coleta, preparação, armazenamento e processamento de dados.
+Além de abrir portas para grandes empresas e para o Hackathon da Microsoft com um prêmio de 10 mil dólares, você vai ganhar habilidades de integração, criando e publicando modelos de fluxos de ações em poucas semanas!
 
-Conhecer as técnicas e tecnologias usadas na construção do pipeline de dados (data flow) que envolvem processos de coleta, preparação, armazenamento e acesso a dados, além da integração e combinação de diferentes fontes de dados.
-
-Durante dois meses, iremos imergir no mundo da engenharia de dados, e trazer uma solução real e completa, que abrande um projeto de streaming de dados com Apache Kafka!
-Seja muito bem vindo(a) a esta jornada!
+A grade conta com o conteúdo de MVPs da Microsoft e mostram de forma linear toda a documentação para se dar bem no exame, mostrando como usar ferramentas Azure para integrar áreas de forma simples eficiente.
 
 ### Atividades:
 
-Aulas gravadas: As aulas são gravadas, divididas em 5 módulos que totalizam 32 horas de duração.
+Mentorias (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
 
-Aulas interativas (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
+Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
 
-Desafio Final: Construção de um projeto End-to-End, utilizando o aclamado Apache Kafka.
+Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+
+Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
 
 
